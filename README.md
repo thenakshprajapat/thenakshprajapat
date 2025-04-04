@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thenakshprajapat
-- 👀 I’m interested programming and UI Developement.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me : Via GMAIL --> thenakshprajapat@gmail.com
+- 📫 How to reach me : Via MAIL --> thenakshprajapat@outlook.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: I learned Visual Basic when I was in 8th class and now I'm learning Python. 
 
