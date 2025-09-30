@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thenakshprajapat
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me : Via MAIL --> thenakshprajapat@outlook.com
+- 📫 How to reach me : Via MAIL --> naksh@nakshdev.tech
 - 😄 Pronouns: ... He/Him 
 
 <!---
