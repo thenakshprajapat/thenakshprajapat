@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thenakshprajapat
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Discord
+- 🌱 I’m currently learning Front-End Web Developement + Python & C++
 - 📫 How to reach me : Via MAIL --> naksh@nakshdev.tech
 - 😄 Pronouns: ... He/Him 
 
