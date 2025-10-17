@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naksh Prajapati</h1>
 <h3 align="center">A curious guy learning...</h3>
-
+<img src = "https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" alt = "Guy Coding" width = "200" height = "200" align = "right">
 - 🌱 I’m currently learning **React and Python**
 
 - 👨‍💻 All of my projects are available at [nakshdev.tech](nakshdev.tech)
